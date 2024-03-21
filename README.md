@@ -4,6 +4,8 @@
 
 # weFit - teste javascript
 
+![link para o resultado](https://edmar-sousa.github.io/weFit-js/)
+
 ### tecnologias
 
 - JQuery
